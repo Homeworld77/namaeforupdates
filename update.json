@@ -3,6 +3,6 @@
   "released_at": "2025-08-26T13:00:00Z",
   "download_url": "https://samply.app/p/hzZPXAHuUg7kiydEWwlU",
   "notes": "• Added physical drives on the left explorer; • Performance improvements;",
-  "min_supported_version": "0.0.0",
+  "min_supported_version": "1.0.0",
   "critical": false
 }
