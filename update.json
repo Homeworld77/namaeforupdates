@@ -6,6 +6,7 @@
     "Fixed audio details not showing on Mac version",
     "Performance improvements"
   ],
+  "notes_html": "<ul><li>Fixed audio details not showing on Mac version</li><li>Performance improvements</li></ul>",
   "min_supported_version": "1.0.0",
   "critical": false
 }
