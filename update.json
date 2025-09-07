@@ -2,11 +2,7 @@
   "latest_version": "1.9.1",
   "released_at": "2025-09-07T13:00:00Z",
   "download_url": "https://samply.app/p/hzZPXAHuUg7kiydEWwlU",
-  "notes": [
-    "Fixed audio details not showing on Mac version",
-    "Performance improvements"
-  ],
-  "notes_html": "<ul><li>Fixed audio details not showing on Mac version</li><li>Performance improvements</li></ul>",
+  "notes": "• Fixed audio details not showing on Mac version\n• Performance improvements",
   "min_supported_version": "1.0.0",
   "critical": false
 }
